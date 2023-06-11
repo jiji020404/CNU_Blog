@@ -1,5 +1,9 @@
 const Resume = () => {
-  return <div>나는 프로젝트 내역</div>;
+  return (
+    <div>
+      <h2>종강 제발</h2>
+    </div>
+  );
 };
 
 export default Resume;
